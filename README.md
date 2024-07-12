@@ -30,7 +30,7 @@ We approached this as a multi-label classification problem, implementing and com
 
 ## Results
 Model performances were evaluated using log loss. Key findings:
-- CNN demonstrated the best performance on unseen data
+- CNN demonstrated the best performance on unseen data with a testing loss of 0.01657
 - Logistic Regression, SVM, and ANN showed strong performance
 - Random Forest outperformed individual Decision Trees
 - Naive Bayes, Decision Trees, and KNN served as baseline models with comparatively poor results
